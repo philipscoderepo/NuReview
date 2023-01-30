@@ -1,0 +1,8 @@
+
+.ArticleBody {
+  background-color: white;
+  display: flex;
+  height: 70vh;
+  margin: 10px;
+  padding: 10px;
+}

@@ -1,0 +1,5 @@
+.site-name {
+  display: flex;
+  flex-direction: row;
+  font-size: x-large;
+}

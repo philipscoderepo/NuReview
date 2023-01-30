@@ -1,0 +1,26 @@
+.search {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;  
+  align-items: flex-end;
+  padding-right: 50px;
+}
+
+.SearchBar {
+  display: flex;  
+  align-items: center;
+  gap: 10px;
+}
+
+.SearchBar > input {
+  width: 500px;
+  font-size: large;
+  height: 30px;
+}
+
+.SearchBar > button {
+  background-color: #23014F;
+  border: none;
+  border-radius: 5px;
+  height: 35px;
+}

@@ -1,0 +1,27 @@
+.svg-button{
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  color: #AD86E0;
+  gap: 10px;
+}
+
+.svg-button > a {
+  display: flex;
+  gap: 15px;
+  background-color: #23014F;
+  color: white;
+  text-decoration: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  font-size: x-large;  
+  align-items: center;
+}
+
+.tool-tip {
+  font-size: x-large;
+}

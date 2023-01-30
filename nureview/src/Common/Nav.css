@@ -1,0 +1,19 @@
+.Nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: .5%;
+  background-color: white;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  gap: 10px;
+  width: 75%;
+}
