@@ -5,9 +5,9 @@ function NewArticles() {
   return (
     <div className="NewArticles">
       <h1>New Articles</h1>
-      <ArticlePreview/>
-      <ArticlePreview/>
-      <ArticlePreview/>
+      <ArticlePreview path={'/ReadArticle/?id=0'}/>
+      <ArticlePreview path={'/ReadArticle/?id=1'}/>
+      <ArticlePreview path={'/ReadArticle/?id=2'}/>
     </div>
   );
 }

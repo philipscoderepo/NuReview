@@ -5,6 +5,7 @@
   align-items: center;
   color: #AD86E0;
   gap: 10px;
+  cursor: pointer;
 }
 
 .svg-button > a {

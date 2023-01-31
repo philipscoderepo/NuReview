@@ -4,13 +4,13 @@ import SvgButton from "../Common/SvgButton";
 import SearchBar from "./SearchBar";
 import { home_icon } from "../Common/icons";
 
-function SearchNav() {
+function SearchNav({showResults}) {
   return(
     <div className="Nav">
       <SiteName/>
       <div className="nav-right">
         <SvgButton icon={home_icon} text="Home" path="/"/>
-        <SearchBar/>
+        <SearchBar showResults={showResults}/>
       </div>
     </div>
   );

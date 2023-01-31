@@ -1,4 +1,8 @@
 
 .ArticleHeader {
   padding-left: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
 }
