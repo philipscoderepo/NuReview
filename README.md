@@ -2,7 +2,7 @@
 
 ## Random Media Service
 #### UML Diagram
-![UML Diagram - Random Media Service](https://github.com/philipscoderepo/NuReview/blob/main/random-media-service/random-media-uml.png?raw=true)
+![UML Diagram - Random Media Service](https://github.com/philipscoderepo/NuReview/blob/main/service-uml.png?raw=true)
 
 #### About
 The Random Media Service is a microservice which, upon request, will provide a list of random media with information you can use to help a user decide what media they should consume that day. The service uses HTTP as it's communication, and accepts HTTP requests through a simple call either through a browser, or through any programming library capable of sending HTTP requests. The data returned in the HTTP response bodies are formated in JSON.
