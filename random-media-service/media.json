@@ -1,0 +1,58 @@
+﻿{ 
+    "media": [
+        {
+            "title": "Count of Monte Cristo",
+            "type": "book",
+            "vibe": "classic",
+            "description": "Literary classic by Alexander Dumas. Came out in 1844. An epic adventurous tale about a man who is wrongfully imprisoned, escapes from jail, acquires a fortune, and sets about exacting revenge on those responsible for his imprisonment."
+        },
+        {
+            "title": "Outlander",
+            "type": "book",
+            "vibe": "dramatic",
+            "description": "Book released in 1991, by Diana Gabaldon. A historical fiction book about a former Second World War military nurse in Scotland who, in 1945, finds herself transported back in time to 1743 during the Jacobite uprising.  First in a series.  Is also a TV show on Starz!"
+        },
+        {
+            "title": "Cloud Cuckoo Land",
+            "type": "book",
+            "vibe": "dramatic",
+            "description": "Novel released in 2021 by Anthony Doerr. A story that follow five characters whose stories, despite spanning nearly six centuries, are bound together by their mutual love for a single book."
+        },
+        {
+            "title": "I Wanna Dance With Somebody",
+            "type": "music",
+            "vibe": "classic",
+            "description": "Song released in 1987.  R&B/Soul, Pop. One of best classic songs from the 1980s, performed by Whitney Houston.  "
+        },
+        {
+            "title": "The Goonies",
+            "type": "tv",
+            "vibe": "classic",
+            "description": "Movie released in 1985.  Old fashioned war about of band of adventurous kids who take on the high of a property developing company which plans to destroy their home to build a country club.  When the children discover an old pirate map in the attic, they follow it into an underground cavern in search of lost treasure but come up against plenty of dangerous obstacles along the way.  Directed by Richard Donner. "
+        },
+        {
+            "title": "Last of Us",
+            "type": "tv",
+            "vibe": "dramatic",
+            "description": "TV Series. Just came out 2023 on HBO! After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl, who may be humanity's last hope."
+        },
+        {
+            "title": "The Good Place",
+            "type": "tv",
+            "vibe": "happy",
+            "description": "TV show from 2016. (If you want funny, this is it). Four people and their otherworldly frienemy struggle in the afterlife to define what it means to be good."
+        },
+        {
+            "title": "Great British Bake Off",
+            "type": "tv",
+            "vibe": "calm",
+            "description": "Famous BBC TV series.  Calmly narrated, pleasant British baking competition show."
+        },
+        {
+            "title": "Palm Springs",
+            "type": "tv",
+            "vibe": "happy",
+            "description": "2020 Hulu movie.  Stuck in a time loop, two wedding guests develop a budding romance while living the same day over and over again.  If you like comedy movies, you won't regret it."
+        }
+    ]
+}

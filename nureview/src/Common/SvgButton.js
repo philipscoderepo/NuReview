@@ -4,7 +4,7 @@ function SvgButton({text, icon, path, tooltip}) {
   return (
     <div className='svg-button'>
       { tooltip != null && (
-        <div className='tool-tip'>Find new Articles</div>
+        <div className='tool-tip'>{tooltip}</div>
       )}
       <a href={path}>
         <div>{text}</div>

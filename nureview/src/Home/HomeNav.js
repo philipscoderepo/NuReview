@@ -7,7 +7,7 @@ function HomeNav() {
   return(
     <div className="Nav">
       <SiteName/>
-      <SvgButton text="Search" path="/Search" icon={search_icon} tooltip="Find new articles!"/>
+      <SvgButton text="Search" path="/Search" icon={search_icon} tooltip="Find new articles here!"/>
     </div>
   );
 }

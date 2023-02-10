@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body style="display: flex; flex-direction: column; max-width: 400px; gap: 10px;">
+<div style="border: black 1px solid; padding: 10px;">
+  <button onclick="getData()" type="button">
+    Test Service
+  </button>
+  <p>Message display:</p>
+  <p id="message-display" style="white-space: pre; overflow-x: auto;"></p>
+</div>
+<script>
+  function getData(){
+    fetch("http://localhost:3000/read-all-media")
+      .then(res => res.json())
+      .then(data => {
+        const display = document.getElementById("message-display")
+        display.innerText = ''
+        for(let m in data.media) {
+          display.innerText += JSON.stringify(data.media[m]) + '\n'
+        }
+      })
+  }
+</script>
+</body>
+</html>
