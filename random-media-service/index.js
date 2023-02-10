@@ -10,6 +10,7 @@ app.use(cors({
 app.use(express.json())
 
 app.get('/read-all-media', (req, res) => {
+  console.log("request received")
   res.send(media)
 })
 
