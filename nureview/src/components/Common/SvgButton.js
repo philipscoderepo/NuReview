@@ -1,4 +1,4 @@
-import "./SvgButton.css";
+import "../../style/Common/SvgButton.css";
 
 function SvgButton({text, icon, path, tooltip}) {
   return (

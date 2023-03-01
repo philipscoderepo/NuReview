@@ -1,4 +1,4 @@
-import '../Common/Nav.css';
+import '../../style/Common/Nav.css';
 import SiteName from '../Common/SiteName';
 import SvgButton from '../Common/SvgButton';
 import { search_icon } from '../Common/icons';

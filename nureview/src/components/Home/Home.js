@@ -1,7 +1,7 @@
 import HomeNav from "./HomeNav";
 import NewArticles from "./NewArticles";
 import Welcome from "./Welcome";
-import "./Home.css";
+import "../../style/Home/Home.css";
 
 function Home() {
   return(

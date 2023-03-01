@@ -1,5 +1,5 @@
 import { profile_icon } from "../Common/icons";
-import "./Profile.css";
+import "../../style/Home/Profile.css";
 
 function Profile({username}) {
   return (

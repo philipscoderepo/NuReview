@@ -1,4 +1,4 @@
-import "./SharePopup.css";
+import "../../style/ReadArticle/SharePopup.css";
 
 function SharePopup({showPopup}) {
   return (

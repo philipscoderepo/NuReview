@@ -1,6 +1,6 @@
 import SvgButton from "../Common/SvgButton";
 import { home_icon, search_icon } from "../Common/icons";
-import "../Common/Nav.css";
+import "../../style/Common/Nav.css";
 import SiteName from "../Common/SiteName";
 
 function ReadArticleNav(){

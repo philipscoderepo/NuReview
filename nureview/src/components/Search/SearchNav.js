@@ -1,5 +1,5 @@
 import SiteName from "../Common/SiteName";
-import "../Common/Nav.css";
+import "../../style/Common/Nav.css";
 import SvgButton from "../Common/SvgButton";
 import SearchBar from "./SearchBar";
 import { home_icon } from "../Common/icons";

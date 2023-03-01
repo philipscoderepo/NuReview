@@ -1,7 +1,7 @@
 import { search_icon } from "../Common/icons";
 import SvgButton from "../Common/SvgButton";
 import AdvancedSearch from "./AdvancedSearch";
-import "./SearchBar.css";
+import "../../style/Search/SearchBar.css";
 
 function SearchBar({showResults}) {
   return (

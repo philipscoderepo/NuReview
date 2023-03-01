@@ -1,5 +1,5 @@
 import ArticlePreview from "../Home/ArticlePreview";
-import "./SearchResults.css";
+import "../../style/Search/SearchResults.css";
 
 function SearchResults() {
   return(

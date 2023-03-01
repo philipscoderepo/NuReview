@@ -1,4 +1,4 @@
-import "../Common/SiteName.css";
+import "../../style/Common/SiteName.css";
 
 function SiteName() {
   return (

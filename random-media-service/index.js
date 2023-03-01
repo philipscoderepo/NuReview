@@ -5,7 +5,6 @@ const cors = require('cors')
 const media = require("./media.json")
 app.use(cors({
     origin: '*',
-
 }));
 app.use(express.json())
 

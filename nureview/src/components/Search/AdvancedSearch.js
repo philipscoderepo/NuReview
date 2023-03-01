@@ -1,4 +1,4 @@
-import "./AdvancedSearch.css";
+import "../../style/Search/AdvancedSearch.css";
 import { useState } from "react";
 
 function AdvancedSearch({updateSearchType}) {

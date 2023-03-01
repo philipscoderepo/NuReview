@@ -1,5 +1,5 @@
 import SearchNav from "./SearchNav";
-import "./Search.css";
+import "../../style/Common/Nav.css";
 import SearchResults from "./SearchResults";
 import { useState } from "react";
 

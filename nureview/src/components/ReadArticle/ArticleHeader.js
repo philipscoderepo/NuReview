@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { share_icon } from "../Common/icons";
 import SvgButton from "../Common/SvgButton";
-import "./ArticleHeader.css";
+import "../../style/ReadArticle/ArticleHeader.css";
 import SharePopup from "./SharePopup";
 
 function ArticleHeader() {

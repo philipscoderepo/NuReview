@@ -1,4 +1,4 @@
-import "./ArticleBody.css";
+import "../../style/ReadArticle/ArticleBody.css";
 
 function ArticleBody(){
   return (

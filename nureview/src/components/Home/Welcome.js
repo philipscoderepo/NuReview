@@ -1,5 +1,5 @@
 import Profile from "./Profile";
-import "./Welcome.css"
+import "../../style/Home/Welcome.css"
 
 function Welcome(){
   return (

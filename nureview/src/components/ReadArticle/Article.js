@@ -1,5 +1,5 @@
 import ArticleBody from "./ArticleBody";
-import "./Article.css";
+import "../../style/ReadArticle/Article.css";
 import ArticleHeader from "./ArticleHeader";
 
 function Article(){
